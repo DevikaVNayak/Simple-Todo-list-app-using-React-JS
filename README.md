@@ -1,0 +1,1 @@
+Created short todo list using react js where you can add ,remove the stuffs easily as tasks are compleated,once you click on the tak it's done and goes to bottom of the list,and you can easily remove a task by clicking cross button.
